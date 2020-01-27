@@ -1,0 +1,22 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "Script to migrate repositories from one provider to another",
+  "main": "script.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": {
+    "email": "med.idrissi@outlook.com",
+    "name": "Mohamed IDRISSI"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:midrissi/gitlab-migrate.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  }
+}

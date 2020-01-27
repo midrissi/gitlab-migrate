@@ -1,0 +1,154 @@
+[{
+  "old": "git@git-ps-new.wakanda.io:wakandaps/cochilo-mobile.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/cochilo/mobile.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/cochilo-cochilodromo.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/cochilo/backoffice.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/cochilo-gateway.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/cochilo/microservices/gateway.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/cochilo-cabines-microservice.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/cochilo/microservices/cabines.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/cochilo-bookings-microservice.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/cochilo/microservices/bookings.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/cochilo-billing-microservice.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/cochilo/microservices/billing.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/cochilo-auth-microservice.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/cochilo/microservices/auth.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/4dprja.git",
+  "new": "git@git-ps.wakanda.io:qaas/4dprja.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:newpack/front.git",
+  "new": "git@git-ps.wakanda.io:qaas/newpack/front.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/Idexx.git",
+  "new": "git@git-ps.wakanda.io:qaas/idexx.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/serviceminderFramework.git",
+  "new": "git@git-ps.wakanda.io:qaas/service-minder/framework.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/serviceminderFront.git",
+  "new": "git@git-ps.wakanda.io:qaas/service-minder/front.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/serviceminderBackend.git",
+  "new": "git@git-ps.wakanda.io:qaas/service-minder/back.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/ci_getstarted.git",
+  "new": "git@git-ps.wakanda.io:qaas/ci_getstarted.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/pocSeleniumSummitParis2018.git",
+  "new": "git@git-ps.wakanda.io:qaas/pocSeleniumSummitParis2018.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/topkutz-backoffice.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/topkutz/backoffice.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/topkutz-notifier.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/topkutz/notifier.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/topkutz-api.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/topkutz/api.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/topkutz-barberapp.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/topkutz/barber-app.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/topkutz-customerapp.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/topkutz/customer-app.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/topkutz_api_ci.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/topkutz/qa/api-ci.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakanda-ixala/backend.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/ixala/backend.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakanda-ixala/Front.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/ixala/frontend.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakastdc/parser.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/parser.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakastdc/astudentcard_api.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/api.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakastdc/notifier.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/notifier.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakastdc/astudentcard_bus_api.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/bus-api.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakastdc/reverse_proxy.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/reverse-proxy.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakastdc/astudentcard_api_elk.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/api-elk.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/allodermarche_english.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/allodermarche-english.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakastdc/meta-api.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/meta-api.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/student_card_api_ci.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/qa/api.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:QaaS/astudentcard_bus_api_ci.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/qa/bus-api.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/gamestarbet_operator.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/gamestarbet/operator.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/gamestarbet_backoffice.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/gamestarbet/backoffice.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/gamestarbet_mobile.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/gamestarbet/mobile.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakandaps/gamestarbet_api.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/astdc/gamestarbet/api.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakanda-tnc/frontOffice.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/wakanda-tnc/frontoffice.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakanda-tnc/front.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/wakanda-tnc/front.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakanda-tnc/backend.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/wakanda-tnc/backend.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:wakanda-tnc/integration.git",
+  "new": "git@git-ps.wakanda.io:wakanda-ps/wakanda-tnc/integration.git"
+}, {
+  "old": "git@git-ps-new.wakanda.io:soufiane/picture_uploader.git",
+  "new": ""
+}, {
+  "old": "git@git-ps-new.wakanda.io:samia/TestScript.git",
+  "new": ""
+}, {
+  "old": "git@git-ps-new.wakanda.io:idrissi/parser-v2.git",
+  "new": ""
+}, {
+  "old": "git@git-ps-new.wakanda.io:ayoub/Fnac.git",
+  "new": ""
+}, {
+  "old": "git@git-ps-new.wakanda.io:karim/ez0-app.git",
+  "new": ""
+}, {
+  "old": "git@git-ps-new.wakanda.io:Redwan/ez0-app.git",
+  "new": ""
+}, {
+  "old": "git@git-ps-new.wakanda.io:Redwan/mbm-capital.git",
+  "new": ""
+}, {
+  "old": "git@git-ps-new.wakanda.io:ayoub/LWHT.git",
+  "new": ""
+}, {
+  "old": "git@git-ps-new.wakanda.io:4D_Web/effy.git",
+  "new": ""
+}, {
+  "old": "git@git-ps-new.wakanda.io:testAuto/autodevops.git",
+  "new": ""
+}]
